@@ -1,0 +1,1 @@
+# Query-Store_SQL-Server-2022-Enhancements
